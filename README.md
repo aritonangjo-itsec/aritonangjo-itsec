@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aritonangjo-itsec
+- 👋 Hi, I’m @aritonangjo
 - 👀 I’m interested in Data Science, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
